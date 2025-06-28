@@ -1,12 +1,12 @@
-Rain Rain Go Away ☔
+Rain Rain Go Away 
 Automated Rain Detection and Wiper Control System:
  Project Description:
 This project aims to design an automated rain detection and wiper control mechanism. The system detects rain using a sensor and activates a wiper that oscillates from 0 to 180 degrees while displaying four discrete, controllable speed levels.
- Features
+The features of thsi project are :
 Rain Detection: Uses an analog sensor to detect rainfall intensity.
 Speed Control: Implements four discrete wiper speed levels based on rain intensity.
 PWM Control: Generates Pulse Width Modulation (PWM) signals for speed variation.
-Arduino Integration: Uses an Arduino UNO to process signals and control the motor.
+Arduino Integration: Uses an Arduino UNO to process signals and control the servo motor.
 Servo Motor Indicator: Displays the selected speed using a servo needle mechanism.
 System Overview :
 1️⃣ Comparator Network
