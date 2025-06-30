@@ -1,7 +1,7 @@
 # Rain Rain Go Away 
 ## Automated Rain Detection and Wiper Control System:
  ### Project Description:
-This project aims to design an automated rain detection and wiper control mechanism. The system detects rain using a sensor and activates a wiper that oscillates from 0 to 180 degrees while displaying four discrete, controllable speed levels.<br\>
+This project aims to design an automated rain detection and wiper control mechanism. The system detects rain using a sensor and activates a wiper that oscillates from 0 to 180 degrees while displaying four discrete, controllable speed levels.<br/>
 The features of thsi project are :
 Rain Detection: Uses an analog sensor to detect rainfall intensity.
 Speed Control: Implements four discrete wiper speed levels based on rain intensity.
